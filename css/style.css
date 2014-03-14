@@ -1,11 +1,11 @@
 body{
 	font-family: 'Alegreya Sans SC', sans-serif;
-	color: #FAF3BC;
+	color: #F0F0F0;
 	background: black repeat;
 }
 
 a {
-	color: #4fb69f;
+	color: #38B0DE;
 	text-decoration: none;
 }
 
@@ -16,12 +16,12 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	color: #b4c34f;
+	color: #FF3D0D;
 }
 
 .btn {
-	color: #faf3bc;
-	background: #4fb69f no-repeat right top;
+	color: #F0F0F0;
+	background: #38B0DE no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 50px;
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover{
-	background-color: #4cc4a7;
+	background-color: #42C0FB;
 }
 
 ul.nav {
@@ -44,7 +44,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-	color: #b4c34f;
+	color: #FF3D0D;
 	font-size: 1.25em;
 }
 
@@ -54,13 +54,13 @@ ul.nav li a {
 
 
 #new-shoes img{
-	border: 8px solid #faf3bc;
+	border: 8px solid #FF3D0D;
 	margin: 0 0 20px 0;
 }
 
 
 #featured-shoe img{
-	border: 8px solid #faf3bc;
+	border: 8px solid #FF3D0D;
 }
 
 #copyright {
