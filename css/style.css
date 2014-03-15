@@ -5,7 +5,7 @@ body{
 }
 
 a {
-	color: #38B0DE;
+	color: #66CD00;
 	text-decoration: none;
 }
 
@@ -21,15 +21,15 @@ h2 {
 
 .btn {
 	color: #F0F0F0;
-	background: #38B0DE no-repeat right top;
+	background: #66CD00 no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
-	border-radius: 50px;
+	/*border-radius: 10px;*/
 	text-transform: uppercase;
 }
 
 .btn:hover{
-	background-color: #42C0FB;
+	background-color: #7FFF00;
 }
 
 ul.nav {
@@ -64,7 +64,7 @@ ul.nav li a {
 }
 
 #copyright {
-	border-top: 8px solid #2a0400;
+	border-top: 8px solid #66CD00;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;
