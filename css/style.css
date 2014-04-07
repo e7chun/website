@@ -1,0 +1,73 @@
+body{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #F0F0F0;
+	background: black repeat;
+}
+
+a {
+	color: #66CD00;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.75em;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-size: 1.5em;
+	color: #FF3D0D;
+}
+
+.btn {
+	color: #F0F0F0;
+	background: #66CD00 no-repeat right top;
+	padding: 15px 30px;
+	margin: 40px 0px;
+	/*border-radius: 10px;*/
+	text-transform: uppercase;
+}
+
+.btn:hover{
+	background-color: #7FFF00;
+}
+
+ul.nav {
+	margin: 120px 0 0 0;
+	list-style: none;
+	float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 40px;
+}
+
+ul.nav li a {
+	color: #FF3D0D;
+	font-size: 1.25em;
+}
+
+/*#intro {
+	margin: 0px 0 0px 0;
+}*/
+
+
+#new-shoes img{
+	border: 8px solid #FF3D0D;
+	margin: 0 0 20px 0;
+}
+
+
+#featured-shoe img{
+	border: 8px solid #FF3D0D;
+}
+
+#copyright {
+	border-top: 8px solid #66CD00;
+	padding: 10px 0px;
+	margin: 15px 0px;
+	text-align: center;
+}
+
+
