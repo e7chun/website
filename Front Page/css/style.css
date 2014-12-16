@@ -60,8 +60,8 @@ a {
 }
 
 #nike_artistry img{
-	height: 60%;
-	width: 60%;
+	height: 170px;
+	width: 280px;
 	border: solid 4px #DCDCDC;
 	box-shadow: 7px 7px 5px #828282;
 }
@@ -70,8 +70,8 @@ a {
 }
 
 #dbc_pizza img{
-	height: 60%;
-	width: 60%;
+	height: 170px;
+	width: 280px;
 	border: solid 4px #DCDCDC;
 	box-shadow: 7px 7px 5px #828282;
 }
@@ -79,19 +79,29 @@ a {
   -webkit-filter: brightness(60%);
 }
 #dbc_medical img{
-	height: 60%;
-	width: 60%;
+	height: 170px;
+	width: 280px;
 	border: solid 4px #DCDCDC;
 	box-shadow: 7px 7px 5px #828282;
 }#dbc_medical img:hover {
   -webkit-filter: brightness(60%);
 }
 #navbar img{
-	height: 60%;
-	width: 60%;
+	height: 170px;
+	width: 280px;
 	border: solid 4px #DCDCDC;
 	box-shadow: 7px 7px 5px #828282;
-}#navbar img:hover {
+}
+#navbar img:hover {
+  -webkit-filter: brightness(60%);
+}
+#cheatsheet img{
+	height: 170px;
+	width: 280px;
+	border: solid 4px #DCDCDC;
+	box-shadow: 7px 7px 5px #828282;
+}
+#cheatsheet img:hover {
   -webkit-filter: brightness(60%);
 }
 #nike_artistry p {
@@ -104,6 +114,9 @@ a {
 	color: #A3A3A3;
 }
 #navbar p {
+	color: #A3A3A3;
+}
+#cheatsheet p {
 	color: #A3A3A3;
 }
 #copyright {
